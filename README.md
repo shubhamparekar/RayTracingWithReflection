@@ -3,8 +3,11 @@ A real-time ray tracing simulation in C++ and SDL3 that demonstrates light refle
 
 ## Features
 ✅ Ray casting simulation with reflection
+
 ✅ Real-time rendering using SDL3
+
 ✅ Light interaction with a moving elliptical object
+
 ✅ Adjustable parameters for easy modifications
 
 ## Screenshots
